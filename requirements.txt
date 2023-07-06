@@ -54,7 +54,7 @@ pytz==2020.1              # via pandas
 
 
 
-scipy==1.4.1              # via seaborn
+scipy==1.10.0              # via seaborn
 
 
 
